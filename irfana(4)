@@ -1,0 +1,90 @@
+<head>
+<style>
+body {background-color: aqua;}
+h1   {color: blue;}
+p1   {color:red;}
+</style>
+</head>
+<body>
+<h1 style=font-size:400%;"><center><i>EMIRON</i></center></h1>
+<p1 style="font-size:180%;">Committed to excellence,welcome to EMIRON our main goal is to always achieve a high level of customer satisfaction with the services and products that we provide.This simple approach has effectively fueled our growth sine we opened our doors in 2000.Since being established in 2000,EMIRON has been known for an unparalleled commitment to customer satisfaction .It's this standard of excellence that has provided the impetus for us to grow into the business we are today.</p1> <br><br><br>
+
+&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  <img src="
+https://cdn.windowsreport.com/wp-content/uploads/2018/03/ecommerce-2140604_1920-886x590.jpg"width="400" height="200">  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp 
+<img src="https://blogs.gartner.com/dave-egloff/files/2018/12/new-product-pexels1-300x178.jpg"width="400" height="200"><br><br><Br>
+ &nbsp &nbsp &nbsp &nbsp &nbsp <button type="button"style="font-size:250%; background-color:pink;">success usually come to those who are too busy to be looking for it!</button>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<h2>Inquire Form</h2>
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Email</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your mail-id..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="India">India</option>
+      <option value="England">England</option>
+      <option value="usa">United States</option>
+      <option value="Australia">Australia</option>
+      <option value="Pakistan">Pakistan</option>
+      <option value="Jamaica">Jamaica</option>
+
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+</body>
+</html>
